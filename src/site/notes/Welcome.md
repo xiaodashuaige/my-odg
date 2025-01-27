@@ -3,15 +3,12 @@
 ---
 
 
-| File                                  | function   | time | link                                                                             |
-| ------------------------------------- | ---------- | ---- | -------------------------------------------------------------------------------- |
-| [[create a link\|create a link]]   | \-         | \-   | \-                                                                               |
-| [[tupian\|tupian]]                 | \-         | \-   | \-                                                                               |
-| [[Welcome\|Welcome]]               | \-         | \-   | \-                                                                               |
-| [[hello\|hello]]                   | \-         | \-   | [使用指南](https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B) |
-| [[dataviews/solidwork\|solidwork]] | 3d drawing | 1.22 | \-                                                                               |
-| [[dataviews/cero\|cero]]           | drawing    | 1.27 | \-                                                                               |
+| File                          | some-tags                                                                            | relevant-tags                                                                        | link                                                                                                                                                                          | time             |
+| ----------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[what\|what]]             | <ul><li><b>stag1</b>: \-</li><li><b>stag2</b>: \-</li><li><b>stag3</b>: \-</li></ul> | <ul><li><b>rtag1</b>: \-</li><li><b>rtag2</b>: \-</li><li><b>rtag3</b>: \-</li></ul> | \-                                                                                                                                                                            | 2025-01-27 16:57 |
+| [[obsidian操作\|obsidian操作]] | <ul><li><b>stag1</b>: \-</li><li><b>stag2</b>: \-</li><li><b>stag3</b>: \-</li></ul> | <ul><li><b>rtag1</b>: \-</li><li><b>rtag2</b>: \-</li><li><b>rtag3</b>: \-</li></ul> | <ul><li><b>link1</b>: [PKMer_Obsidian](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian/)</li><li><b>link2</b>: [Obsidian中文帮助](https://publish.obsidian.md/help-zh)</li></ul> | 2025-01-27 16:53 |
 
 { .block-language-dataview}
 
-[使用指南](https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B)
+
+
