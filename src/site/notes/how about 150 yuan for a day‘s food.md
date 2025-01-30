@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/how-about-150-yuan-for-a-day-s-food/","title":"餐饮150元一天是否够用"}
 ---
 
-2025-01-30: 1
----
 
 ---
 ### **一、餐饮预算分配参考（按天/人）**

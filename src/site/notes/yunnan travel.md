@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/yunnan-travel/","title":"云南"}
+{"dg-publish":true,"permalink":"/yunnan-travel/","title":"云南旅游"}
 ---
 
-2025-01-30: 2
----
 
 ---
 ### **行程概览**
