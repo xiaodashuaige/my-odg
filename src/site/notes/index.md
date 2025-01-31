@@ -3,21 +3,17 @@
 ---
 
 
-# Welcome! 🌱
+# [Welcome!](https://my-odg.vercel.app/welcome/)🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Welcome\|welcome]]</span> to get started on your exploration.
-</p>
+# [[Welcome\|Welcome]] !!!
 
-
-<strong>Recently updated notes</strong>
-
-| File                                                              | 修改时间             |
-| ----------------------------------------------------------------- | ---------------- |
-| [[index\|index]]                                               | 2025.01.31 11:24 |
-| [[templater/note\|note]]                                       | 2025.01.31 10:47 |
-| [[Welcome\|Welcome]]                                           | 2025.01.31 10:44 |
-| [[odg.vercel.app推送的文章不能中文开头做标题\|odg.vercel.app推送的文章不能中文开头做标题]] | 2025.01.31 10:15 |
-| [[obsidian操作\|obsidian操作]]                                     | 2025.01.31 10:13 |
+## Recently updated notes
+---
+| File                                                                            | 标签                                                                                   | 相关标签                                                                                 | 链接                                                                                                                                                                            | 创建时间             | 修改时间             |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- |
+| [[obsidian操作\|obsidian操作]]                                                   | <ul><li><b>stag1</b>: \-</li><li><b>stag2</b>: \-</li><li><b>stag3</b>: \-</li></ul> | <ul><li><b>rtag1</b>: \-</li><li><b>rtag2</b>: \-</li><li><b>rtag3</b>: \-</li></ul> | <ul><li><b>link1</b>: [PKMer_Obsidian](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian/)</li><li><b>link2</b>: [Obsidian中文帮助](https://publish.obsidian.md/help-zh)</li></ul> | 2025.01.25 22:54 | 2025.01.31 11:41 |
+| [[odg.vercel.app推送的文章不能中文开头做标题\|odg.vercel.app推送的文章不能中文开头做标题]]               | <ul><li><b>stag1</b>: \-</li><li><b>stag2</b>: \-</li><li><b>stag3</b>: \-</li></ul> | <ul><li><b>rtag1</b>: \-</li><li><b>rtag2</b>: \-</li><li><b>rtag3</b>: \-</li></ul> | \-                                                                                                                                                                            | 2025.01.31 10:13 | 2025.01.31 10:15 |
+| [[how about 150 yuan for a day‘s food\|how about 150 yuan for a day‘s food]] | <ul><li><b>stag1</b>: \-</li><li><b>stag2</b>: \-</li><li><b>stag3</b>: \-</li></ul> | <ul><li><b>rtag1</b>: \-</li><li><b>rtag2</b>: \-</li><li><b>rtag3</b>: \-</li></ul> | \-                                                                                                                                                                            | 2025.01.30 23:18 | 2025.01.30 23:27 |
+| [[yunnan travel\|yunnan travel]]                                             | <ul><li><b>stag1</b>: \-</li><li><b>stag2</b>: \-</li><li><b>stag3</b>: \-</li></ul> | <ul><li><b>rtag1</b>: \-</li><li><b>rtag2</b>: \-</li><li><b>rtag3</b>: \-</li></ul> | \-                                                                                                                                                                            | 2025.01.30 23:19 | 2025.01.30 23:27 |
 
 { .block-language-dataview}
