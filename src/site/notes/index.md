@@ -6,46 +6,18 @@
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Welcome\|Welcome]]</span> to get started on your exploration.
+  Take a look at <span style="font-weight: bold">[[Welcome\|welcome]]</span> to get started on your exploration.
 </p>
 
 
 <strong>Recently updated notes</strong>
-<span><span>  <ul class="recent-notes">
-    
-      <li class="note-card" dir="auto">
-        <span class="note-date">2025-01-31</span> 
-        <a class="note-link" href="index.md" target="_blank" rel="noopener nofollow">index</a>
-      </li>
-    
-      <li class="note-card" dir="auto">
-        <span class="note-date">2025-01-31</span> 
-        <a class="note-link" href="templater/note.md" target="_blank" rel="noopener nofollow">note</a>
-      </li>
-    
-      <li class="note-card" dir="auto">
-        <span class="note-date">2025-01-31</span> 
-        <a class="note-link" href="Welcome.md" target="_blank" rel="noopener nofollow">Welcome</a>
-      </li>
-    
-      <li class="note-card" dir="auto">
-        <span class="note-date">2025-01-31</span> 
-        <a class="note-link" href="odg.vercel.app推送的文章不能中文开头做标题.md" target="_blank" rel="noopener nofollow">odg.vercel.app推送的文章不能中文开头做标题</a>
-      </li>
-    
-      <li class="note-card" dir="auto">
-        <span class="note-date">2025-01-31</span> 
-        <a class="note-link" href="obsidian操作.md" target="_blank" rel="noopener nofollow">obsidian操作</a>
-      </li>
-    
-  </ul></span></span>
 
-| File                                                              | 修改时间                        |
-| ----------------------------------------------------------------- | --------------------------- |
-| [[index\|index]]                                               | 11:12 AM - January 31, 2025 |
-| [[templater/note\|note]]                                       | 10:47 AM - January 31, 2025 |
-| [[Welcome\|Welcome]]                                           | 10:44 AM - January 31, 2025 |
-| [[odg.vercel.app推送的文章不能中文开头做标题\|odg.vercel.app推送的文章不能中文开头做标题]] | 10:15 AM - January 31, 2025 |
-| [[obsidian操作\|obsidian操作]]                                     | 10:13 AM - January 31, 2025 |
+| File                                                              | 修改时间             |
+| ----------------------------------------------------------------- | ---------------- |
+| [[index\|index]]                                               | 2025.01.31 11:24 |
+| [[templater/note\|note]]                                       | 2025.01.31 10:47 |
+| [[Welcome\|Welcome]]                                           | 2025.01.31 10:44 |
+| [[odg.vercel.app推送的文章不能中文开头做标题\|odg.vercel.app推送的文章不能中文开头做标题]] | 2025.01.31 10:15 |
+| [[obsidian操作\|obsidian操作]]                                     | 2025.01.31 10:13 |
 
 { .block-language-dataview}
