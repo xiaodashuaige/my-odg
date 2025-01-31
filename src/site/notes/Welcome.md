@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/"}
+{"dg-publish":true,"permalink":"/welcome/","title":"Welcome"}
 ---
 
 这里是总览
