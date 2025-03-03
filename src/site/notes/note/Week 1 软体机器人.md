@@ -4,5 +4,5 @@
 
 2025-03-02: Week 1 软体机器人
 ---
-## [[note/A.论文的两部分\|A.论文的两部分]]
-## [[note/B.软体机器人在材料和制造技术方面的最新进展和面临的挑战\|B.软体机器人在材料和制造技术方面的最新进展和面临的挑战]]
+## [[note/two point in the paper\|two point in the paper]]
+## [[note/Advancements and Challenges in Robotics for Materials and Manufacturing\|Advancements and Challenges in Robotics for Materials and Manufacturing]]
