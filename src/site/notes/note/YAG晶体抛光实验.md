@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/note/yag/","title":"YAG晶体抛光实验"}
 ---
 
-2025-09-26: YAG晶体抛光实验
+# 2025-09-26 : YAG晶体抛光实验
 ---
 1. 晶体形状
 2. 实验参数
